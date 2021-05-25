@@ -14,7 +14,11 @@ BFH/reccc8cLcY83pQgfq/2021
 1. Step 1
 2. Step 2
 ## Libraries used
-Library Name - Version
+Tensorflow- v2.5.0
+Numpy-v1.16
+Sklearn-v0.21
+Opencv-v4.5.1
+Matplotlib-v3.4.2
 ## How to configure
 Instructions for setting up project
 ## How to Run
