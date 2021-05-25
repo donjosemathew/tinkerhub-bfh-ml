@@ -11,7 +11,7 @@ BFH/reccc8cLcY83pQgfq/2021
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
-1. Step 1
+1. Run the model
 2. Step 2
 ## Libraries used
 Tensorflow- v2.5.0 <br>
