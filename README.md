@@ -12,7 +12,6 @@ BFH/reccc8cLcY83pQgfq/2021
 https://www.loom.com/share/5a372d848b8347c2bf44a42290b2a593
 ## How it Works ?
 1. Run the model
-2. Step 2
 ## Libraries used
 Tensorflow- v2.5.0 <br>
 Numpy-v1.16<br>
