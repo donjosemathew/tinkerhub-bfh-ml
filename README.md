@@ -9,7 +9,7 @@ Chakka Manga Classifier is an 😎ML Project for classifying images of 🍐Chakk
 ## Team Id
 BFH/reccc8cLcY83pQgfq/2021
 ## Link to product walkthrough
-[link to video]
+https://www.loom.com/share/5a372d848b8347c2bf44a42290b2a593
 ## How it Works ?
 1. Run the model
 2. Step 2
